@@ -45,3 +45,6 @@ co(function *(){
     walkSync(argv.path, checkChuncks);
 
 }).catch(onerror);
+
+
+
