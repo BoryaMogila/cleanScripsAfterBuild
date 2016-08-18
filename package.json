@@ -1,0 +1,27 @@
+{
+  "name": "clean-scripts-after-build",
+  "version": "0.0.1",
+  "description": "Clean old scripts after build",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BoryaMogila/cleanScripsAfterBuild.git"
+  },
+  "keywords": [
+    "build",
+    "clean",
+    "scripts"
+  ],
+  "author": "Borya Mogila",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BoryaMogila/cleanScripsAfterBuild/issues"
+  },
+  "homepage": "https://github.com/BoryaMogila/cleanScripsAfterBuild#readme",
+  "dependencies": {
+    "optimist": "^0.6.1"
+  }
+}
