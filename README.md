@@ -3,7 +3,7 @@
 install
 ```
 
-npm install --save
+npm install --save clean-scripts-after-build
 
 
 ```
